@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+I am testing this out to make sure I understand how GitHub works.
